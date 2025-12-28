@@ -1,0 +1,5 @@
+cat << 'EOF' > requirements.txt
+streamlit
+pandas
+plotly
+EOF
